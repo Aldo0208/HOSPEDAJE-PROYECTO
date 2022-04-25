@@ -1,0 +1,3 @@
+30001;Cerveza de cebada;Pilsen;20;4.0
+30002;Postre Tradicional de Perú;Suspiro a la Limeña;38;4.0
+30003;Postre relleno de carne o pollo;Empanada;16;2.0
